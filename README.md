@@ -1,6 +1,6 @@
 # OpenCore HP Prodesk 400 G6
 
-So I just decided to share my EFI folder to install MacOS in my <B/>HP ProDesk 400 G6 i5-10500T 8GB/256GB with intel wifi ax210</B> and made myself a mac mini.
+So I just decided to share my EFI folder to install MacOS in my <B/>HP ProDesk 400 G6 i5-10500T 8GB/256GB with Intel WIFI/Bluetooth ax210</B> and made myself a mac mini.
 
 Just folow OpenCore guide to make USB PEN and copy this already made EFI folder to boot.
 
